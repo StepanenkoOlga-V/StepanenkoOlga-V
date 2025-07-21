@@ -1,13 +1,13 @@
-<h1 align="center">
- 
-  Привет, я Ольга!
-  <img src="GIF/Hi.gif" width="40px" />
-</h1>
+<h1 align="center">Привет!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <br/>
 <br/>
-
+  
 <img align="right" height="250" width="400" alt="GIF" src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ACtru.img?w=768&h=432&m=6"/>
+
+   ### _Меня зовут Степаненко Ольга!_
+   
+   ***
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Spring Boot 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
