@@ -1,5 +1,5 @@
-                                                                              ## Привет!👋
-                                                                          ### Меня зовут Ольга!
+<h1 align="center">Привет!</a>
+<h2 align="center">Меня зовут Ольга!</a>
 
 <!--
 **StepanenkoOlga-V/StepanenkoOlga-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
