@@ -1,5 +1,11 @@
-<h1 align="center">Привет!Меня зовут Ольга</a>
-***That's what I can do|Вот что я умею:***  
+#### _Привет!_ 
+#### _Меня зовут Ольга!_ 
+
+ 
+
+#### Я аналитик данных.
+  
+
 
 <!--
 **StepanenkoOlga-V/StepanenkoOlga-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
