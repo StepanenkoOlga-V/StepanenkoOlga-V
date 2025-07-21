@@ -4,8 +4,9 @@
 
 
 ### _Меня зовут Степаненко Ольга! Я аналитик данных._
-   
-   ***
+ ***
+ 
+
 <img align="right" height="250" width="400" alt="GIF" src="https://www.shutterstock.com/image-photo/big-data-analytics-provide-valuable-600nw-2366137569.jpg"/>
 
 - 👩‍🎓 Закончила курс "Аналитик данных с нуля до Middle" в [Нетология](https://netology.ru/programs/data_analyst_ultimate#/)
