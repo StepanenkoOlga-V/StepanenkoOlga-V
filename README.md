@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://avatars.mds.yandex.net/i?id=d13f1d45e68673938cfe4d6b0eecdb27_l-10996738-images-thumbs&n=13" width="700" height="250"/>
-</div>
+
 <h1 align="center">Привет!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
@@ -8,6 +6,7 @@
 ### _Меня зовут Степаненко Ольга! Я аналитик данных._
    
    ***
+<img align="right" height="250" width="400" alt="GIF" src="https://www.shutterstock.com/image-photo/big-data-analytics-provide-valuable-600nw-2366137569.jpg"/>
 
 - 👩‍🎓 Закончила курс "Аналитик данных с нуля до Middle" в [Нетология](https://netology.ru/programs/data_analyst_ultimate#/)
 - ⚡Приобретенные Hard Skills:
