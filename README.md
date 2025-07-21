@@ -1,11 +1,9 @@
 <h1 align="center">Привет!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<br/>
-<br/>
   
 <img align="right" height="250" width="400" alt="GIF" src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ACtru.img?w=768&h=432&m=6"/>
 
-   ### _Меня зовут Степаненко Ольга!_
+### _Меня зовут Степаненко Ольга!_
    
    ***
 
