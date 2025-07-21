@@ -17,4 +17,4 @@
 - 📜 [Моё резюме](https://spb.hh.ru/resume/c203160cff0e8a60b80039ed1f41334b664745?customDomain=1)
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://wa.me/89633450009)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/89633450009)
